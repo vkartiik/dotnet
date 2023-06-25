@@ -1,0 +1,15 @@
+/Users/kartik/Desktop/c#kartik/program9/bin/Debug/net6.0/program9
+/Users/kartik/Desktop/c#kartik/program9/bin/Debug/net6.0/program9.deps.json
+/Users/kartik/Desktop/c#kartik/program9/bin/Debug/net6.0/program9.runtimeconfig.json
+/Users/kartik/Desktop/c#kartik/program9/bin/Debug/net6.0/program9.dll
+/Users/kartik/Desktop/c#kartik/program9/bin/Debug/net6.0/program9.pdb
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/program9.csproj.AssemblyReference.cache
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/program9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/program9.AssemblyInfoInputs.cache
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/program9.AssemblyInfo.cs
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/program9.csproj.CoreCompileInputs.cache
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/program9.dll
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/refint/program9.dll
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/program9.pdb
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/program9.genruntimeconfig.cache
+/Users/kartik/Desktop/c#kartik/program9/obj/Debug/net6.0/ref/program9.dll
