@@ -1,0 +1,15 @@
+/Users/kartik/Desktop/c#kartik/program2/bin/Debug/net6.0/program2
+/Users/kartik/Desktop/c#kartik/program2/bin/Debug/net6.0/program2.deps.json
+/Users/kartik/Desktop/c#kartik/program2/bin/Debug/net6.0/program2.runtimeconfig.json
+/Users/kartik/Desktop/c#kartik/program2/bin/Debug/net6.0/program2.dll
+/Users/kartik/Desktop/c#kartik/program2/bin/Debug/net6.0/program2.pdb
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/program2.csproj.AssemblyReference.cache
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/program2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/program2.AssemblyInfoInputs.cache
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/program2.AssemblyInfo.cs
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/program2.csproj.CoreCompileInputs.cache
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/program2.dll
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/refint/program2.dll
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/program2.pdb
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/program2.genruntimeconfig.cache
+/Users/kartik/Desktop/c#kartik/program2/obj/Debug/net6.0/ref/program2.dll
